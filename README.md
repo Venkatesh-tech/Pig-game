@@ -15,3 +15,5 @@ It is a luck based hypothetical game.
 
 
 Thank You for your patience reading!!!
+
+https://practical-cray-e2cc7d.netlify.app/
